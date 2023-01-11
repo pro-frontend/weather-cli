@@ -1,0 +1,11 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "license": "GPLv3",
+  "keywords": ["cli", "weather", "nodejs"],
+  "author": "Ivchenkov Dzmitryj",
+  "man": ["README.md"]
+}
