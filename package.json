@@ -16,5 +16,9 @@
   "author": "Ivchenkov Dzmitryj",
   "man": [
     "README.md"
-  ]
+  ],
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "dedent-js": "^1.0.1"
+  }
 }
