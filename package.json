@@ -2,10 +2,19 @@
   "name": "weather-cli",
   "version": "1.0.0",
   "description": "CLI for getting weather",
-  "main": "index.js",
-  "bin": "./index.js",
+  "main": "weather.js",
+  "bin": {
+    "weather": "weather.js"
+  },
+  "type": "module",
   "license": "GPLv3",
-  "keywords": ["cli", "weather", "nodejs"],
+  "keywords": [
+    "cli",
+    "weather",
+    "nodejs"
+  ],
   "author": "Ivchenkov Dzmitryj",
-  "man": ["README.md"]
+  "man": [
+    "README.md"
+  ]
 }
